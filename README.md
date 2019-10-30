@@ -7,7 +7,7 @@ This was created on Mac OS using python 3.X.
 Dependncies:
 **re**
 
-#Usage:
+# Usage:
 1. Enter the product formula
 2. Enter the amount in gram/milli-gram
 3. Confirm the inputs
@@ -15,12 +15,12 @@ Dependncies:
 5. Enter the number of reactants
 6. Enter each reactant formula
 
-##Assumptions:
+## Assumptions:
 1. Each element that is not {H, C, O, N} can appear only in one reactants
 2. The formulas are simple, meaning that there is no brackets etc.
 3. It only support gram and milli-gram for now.
 
-##Dummy Example:
+## Dummy Example:
 Please provide the desired product formula: 
     Li7La3Zr2O12
     
